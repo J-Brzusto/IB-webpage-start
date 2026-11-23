@@ -77,10 +77,8 @@ h3 {
 }
 
 .logo {
-    display: flex;
-    flex-direction: column;
-    line-height: 1.1;
-    flex-shrink: 0;
+   width:315;
+   height:158;
 }
 
 .logo-main {
