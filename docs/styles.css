@@ -64,7 +64,7 @@ h3 {
 
 .site-header {
     background-color: var(--white);
-    min-height: 95px;
+    min-height: 157px;
     padding: 3px 1%;
     display: flex;
     align-items: center;
