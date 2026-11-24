@@ -102,12 +102,13 @@ h3 {
 .navigation {
     display: flex;
     align-items: center;
-    gap: 17px;
+    gap: 20px;
+    padding: 20px;
 }
 
 .navigation a {
     color: var(--navy);
-    font-size: 13px;
+    font-size: 26wpx;
     font-weight: 600;
     transition: color 0.3s;
 }
